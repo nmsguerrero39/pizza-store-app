@@ -6,7 +6,7 @@ export default function App() {
       <header className="bg-black text-white text-center h-12 flex justify-between items-center px-56">
         <div className="logo-style">Italian Pizza</div>
         <nav>
-          <ul className="flex justify-between">
+          <ul className="navbar">
             <li>Pizza</li>
             <li>Burgers</li>
             <li>Fries</li>
@@ -15,7 +15,7 @@ export default function App() {
             <li>Delivery</li>
             <li>Contacts</li>
             <li>
-              <FaSearch></FaSearch>
+              <FaSearch className="text-xl "></FaSearch>
             </li>
           </ul>
         </nav>

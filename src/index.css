@@ -1,11 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Playwrite+HR+Lijeva&display=swap");
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Playwrite+HR+Lijeva&display=swap");
-
 .logo-style {
   font-family: "Playwrite HR Lijeva", cursive;
   font-style: italic;
-  font-size: 2rem;
+  font-size: 1.6rem;
+}
+
+.navbar li {
+  display: inline-block;
+  padding: 0 0.8rem;
+  text-transform: uppercase;
 }
