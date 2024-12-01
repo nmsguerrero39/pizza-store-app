@@ -5,6 +5,7 @@ export default {
     extend: {
       fontFamily: {
         "play-hr": ["'Playwrite HR Lijeva'", "cursive"],
+        sans: ["'Roboto'", "sans-serif"],
       },
       backgroundImage: {
         "hero-section": "url('../src/assets/images/background-image.avif')",
