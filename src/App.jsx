@@ -3,8 +3,8 @@ import { FaSearch } from "react-icons/fa";
 export default function App() {
   return (
     <>
-      <header className="bg-black text-white text-center h-12 flex justify-between items-center">
-        <div>Italian Pizza</div>
+      <header className="bg-black text-white text-center h-12 flex justify-between items-center px-56">
+        <div className="logo-style">Italian Pizza</div>
         <nav>
           <ul className="flex justify-between">
             <li>Pizza</li>
