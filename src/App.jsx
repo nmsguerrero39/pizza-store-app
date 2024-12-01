@@ -20,18 +20,23 @@ export default function App() {
           </ul>
         </nav>
       </header>
-      <section className="bg-hero-section bg-center bg-cover bg-no-repeat bg-fixed relative h-1/2">
-        <div>
-          <img src="../src/assets/images/pizza-chef.jpg" className="w-40" />
+      <section className="relative flex items-center justify-between text-white min-h-[50vh]">
+        <div className="absolute inset-0 bg-hero-section bg-center bg-cover bg-no-repeat bg-fixed">
+          <div className="absolute inset-0 bg-gradient-to-r from-black/50 via-black/50 to-black/50"></div>
         </div>
-        <div>
-          <p>123456, Florida</p>
-          <p>Lorem ipsum</p>
-          <p>0(000) 000-00-00</p>
-          <button>
-            <FaPhone></FaPhone>
-            Order Bell
-          </button>
+        <div className="relative z-20 text-center">
+          {/* <div>
+            <img src="../src/assets/images/pizza-chef.jpg" className="w-40" />
+          </div> */}
+          <div>
+            <p>123456, Florida</p>
+            <p>Lorem ipsum</p>
+            <p>0(000) 000-00-00</p>
+            <button>
+              <FaPhone></FaPhone>
+              Order Bell
+            </button>
+          </div>
         </div>
       </section>
     </>
