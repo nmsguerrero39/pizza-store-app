@@ -33,7 +33,7 @@ export default function App() {
               <p>123456, Florida</p>
               <p>Lorem ipsum</p>
               <p className="my-4 text-4xl">0(000) 000-00-00</p>
-              <button className="bg-red-600 py-3 px-4 rounded text-base">
+              <button className="bg-red-600 py-2 px-3 rounded text-base">
                 <FaPhone className="inline-block text-center mr-3"></FaPhone>
                 Order Bell
               </button>
