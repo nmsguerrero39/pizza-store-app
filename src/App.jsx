@@ -43,7 +43,7 @@ export default function App() {
       </section>
       <main className="px-56">
         <div className="grid grid-cols-3 gap-3">
-          <div className="shadow-lg w-72 flex flex-col justify-center items-center align-center py-4 px-6 text-center">
+          <div className="shadow-grids w-72 flex flex-col justify-center items-center align-center py-4 px-6 text-center">
             <img className="w-48" src="../src/assets/images/dish/pizza-1.png" />
             <h2 className="font-bold text-2xl">Pizza Margherita</h2>
             <p className="text-base my-2">
@@ -75,7 +75,7 @@ export default function App() {
               Buy
             </button>
           </div>
-          <div className="shadow-lg w-72 flex flex-col justify-center items-center align-center py-4 px-6 text-center">
+          <div className="shadow-grids w-72 flex flex-col justify-center items-center align-center py-4 px-6 text-center">
             <img className="w-48" src="../src/assets/images/dish/pizza-1.png" />
             <h2 className="font-bold text-2xl">Pizza Margherita</h2>
             <p className="text-base my-2">
@@ -107,7 +107,7 @@ export default function App() {
               Buy
             </button>
           </div>
-          <div className="shadow-lg w-72 flex flex-col justify-center items-center align-center py-4 px-6 text-center">
+          <div className="shadow-grids w-72 flex flex-col justify-center items-center align-center py-4 px-6 text-center">
             <img className="w-48" src="../src/assets/images/dish/pizza-1.png" />
             <h2 className="font-bold text-2xl">Pizza Margherita</h2>
             <p className="text-base my-2">
@@ -139,7 +139,7 @@ export default function App() {
               Buy
             </button>
           </div>
-          <div className="shadow-lg w-72 flex flex-col justify-center items-center align-center py-4 px-6 text-center">
+          <div className="shadow-grids w-72 flex flex-col justify-center items-center align-center py-4 px-6 text-center">
             <img className="w-48" src="../src/assets/images/dish/pizza-1.png" />
             <h2 className="font-bold text-2xl">Pizza Margherita</h2>
             <p className="text-base my-2">
@@ -171,7 +171,7 @@ export default function App() {
               Buy
             </button>
           </div>
-          <div className="shadow-lg w-72 flex flex-col justify-center items-center align-center py-4 px-6 text-center">
+          <div className="shadow-grids w-72 flex flex-col justify-center items-center align-center py-4 px-6 text-center">
             <img className="w-48" src="../src/assets/images/dish/pizza-1.png" />
             <h2 className="font-bold text-2xl">Pizza Margherita</h2>
             <p className="text-base my-2">
@@ -203,7 +203,7 @@ export default function App() {
               Buy
             </button>
           </div>
-          <div className="shadow-lg w-72 flex flex-col justify-center items-center align-center py-4 px-6 text-center">
+          <div className="shadow-grids w-72 flex flex-col justify-center items-center align-center py-4 px-6 text-center">
             <img className="w-48" src="../src/assets/images/dish/pizza-1.png" />
             <h2 className="font-bold text-2xl">Pizza Margherita</h2>
             <p className="text-base my-2">
